@@ -1,2 +1,3 @@
-# Hello-World
- First versioned repository Git and Github course
+# Hello World!
+
+First versioned repository Git and Github course (testing)
